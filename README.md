@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Alexey Demichev aka LAGNIZE
-- 👀 I’m interested in web techologies and development, gadgets etc.
-- 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on interesting projects regarding web techologies with a single person or a team.
+- 👋 Hi, I’m Aleksey Demichev aka LAGNIZE
+- 👀 I'm a skilled frontend developer with more than a 2 years of commercial development and masters degree in Information and communication technologies. I strive to develop my technical skills, genuinely passionate about new technologies and working in a team with pleasant growth points.
+- 🌱 I am attracted by the development of both internal services and products for a wide audience of users, with an emphasis on creating simple and convenient solutions that improve people's lives. 
+- 💞️ My development skills and experience will be useful for those who are looking for a team member who is open to new challenges and learns quickly.
 - 📫 How to reach me - TG: @lagnize
 
 <!---
